@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Files and Directories
+state-farm-distracted-driver-detection.zip
+s3_transfer/

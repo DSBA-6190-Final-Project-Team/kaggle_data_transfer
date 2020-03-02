@@ -7,3 +7,7 @@ install:
 		
 download:
 	 kaggle competitions download state-farm-distracted-driver-detection
+	 
+make unzip:
+	unzip state-farm-distracted-driver-detection.zip -d s3_transfer
+	
